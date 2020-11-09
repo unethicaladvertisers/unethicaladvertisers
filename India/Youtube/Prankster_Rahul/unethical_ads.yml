@@ -1,11 +1,45 @@
 ---
-- channel_id: UCiJKrqlkEha2kj3D9vSUCIg
-- url: https://www.youtube.com/watch?v=QZ-RoKR6VXQ
-  count: 2
-  markers:
-    - 00:00-45s
-    - 14:00-5s
-- url: https://www.youtube.com/watch?v=6RjOkIvteIU
-  count: 1
-  markers:
-    - 00:00-37s
+channel_id: UCiJKrqlkEha2kj3D9vSUCIg
+unethical_ads:
+  - url: https://www.youtube.com/watch?v=QZ-RoKR6VXQ
+    markers:
+      - 00:00-45s-pokerbaazi
+      - 14:00-5s-pokerbaazi
+  - url: https://www.youtube.com/watch?v=6RjOkIvteIU
+    markers:
+      - 00:00-37s-sportsbetio
+  - url: https://www.youtube.com/watch?v=U4c1N8Qx3X0
+    markers:
+      - 00:05-45s-mpl
+      - 16:20-30s-mpl
+  - url: https://www.youtube.com/watch?v=R7GzSEd6AIo
+    markers:
+      - 00:00-45s-binany
+  - url: https://www.youtube.com/watch?v=LeDvU6R4bm0
+    markers:
+      - 00:00-40s-binany
+  - url: https://www.youtube.com/watch?v=VyEBxfmPrvk
+    markers:
+      - 00:00-30s-sportsbetio
+      - 16:45-25s-sportsbetio
+  - url: https://www.youtube.com/watch?v=1DqwQsHs2so
+    markers:
+      - 00:20-40s-mpl
+      - 12:40-20s-mpl
+  - url: https://www.youtube.com/watch?v=VfY7-P4Tz5A
+    markers:
+      - 00:00-35s-binany
+  - url: https://www.youtube.com/watch?v=-o4L7dP64sA
+    markers:
+      - 00:00-30s-4rabet
+  - url: https://www.youtube.com/watch?v=PWBM6xzSkVA
+    markers:
+      - 00:00-35s-binany
+  - url: https://www.youtube.com/watch?v=0Inszkkok0c
+    markers:
+      - 00:00-37s-4rabet
+  - url: https://www.youtube.com/watch?v=rUk_2LBqST4
+    markers:
+      - 00:00-60s-ballebaazi
+
+# TBD from Havoc Brothers Prank.
