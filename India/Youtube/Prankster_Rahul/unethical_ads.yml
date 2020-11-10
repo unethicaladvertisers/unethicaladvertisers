@@ -41,5 +41,36 @@ unethical_ads:
   - url: https://www.youtube.com/watch?v=rUk_2LBqST4
     markers:
       - 00:00-60s-ballebaazi
-
-# TBD from Havoc Brothers Prank.
+  - url: https://www.youtube.com/watch?v=fTOCZvQDFc0
+    markers:
+      - 00:00-48s-ballebaazi
+  - url: https://www.youtube.com/watch?v=5u1oKJpmeoc
+    markers:
+      - 00:12-33s-ballebaazi
+  - url: https://www.youtube.com/watch?v=RQdZK6-nFCE
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=5gc72pTM9bI
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=pcD1RE8xBcI
+    markers:
+      - 00:00-25s-4rabet
+  - url: https://www.youtube.com/watch?v=wIs23iTcyZM
+    markers:
+      - 00:00-25s-binany
+  - url: https://www.youtube.com/watch?v=MAWPcGyQpLg
+    markers:
+      - 00:00-35s-nostragamus
+  - url: https://www.youtube.com/watch?v=tBNAQD3PF0I
+    markers:
+      - 00:00-36s-nostragamus
+  - url: https://www.youtube.com/watch?v=tDqkfX8xOjM
+    markers:
+      - 00:15s-25s-nostragamus
+  - url: https://www.youtube.com/watch?v=R2VObwF3F5w
+    markers:
+      - 00:00-33s-nostragamus
+  - url: https://www.youtube.com/watch?v=HDohh7XHIBg
+    markers:
+      - 00:00-33s-nostragamus
