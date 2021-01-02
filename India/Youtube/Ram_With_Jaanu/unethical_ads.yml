@@ -1,0 +1,50 @@
+---
+channel_id: UC2zyepdNYH48cvjCR2tr9pg
+icon: https://yt3.ggpht.com/ytc/AAUvwniurMQLRMuf-gE4dLolsGk_b-pQohD9N4r5SeLV=s176-c-k-c0x00ffffff-no-rj
+updated_on: 02-JAN-2021
+unethical_ads:
+  - url: https://www.youtube.com/watch?v=RJZyg7Xl67Y
+    markers:
+      - 01:23-30s-djtrader
+  - url: https://www.youtube.com/watch?v=hvpTzMezzoU
+    markers:
+      - 01:20-70s-upstox
+  - url: https://www.youtube.com/watch?v=8t3dZQGxuUU
+    markers:
+      - 02:30-20s-olymptrade
+  - url: https://www.youtube.com/watch?v=27SuxfrOUro
+    markers:
+      - 00:37-40s-my11circle
+  - url: https://www.youtube.com/watch?v=r2RqiPJyliQ
+    markers:
+      - 00:30-30s-rummycircle
+  - url: https://www.youtube.com/watch?v=9wUCKUW5FUo
+    markers:
+      - 00:34-44s-funnearn
+  - url: https://www.youtube.com/watch?v=9W4WdKtquzI
+    markers:
+      - 01:30-40s-ludosingh
+  - url: https://www.youtube.com/watch?v=zgu1ehsrxMU
+    markers:
+      - 00:00:40s-binany
+  - url: https://www.youtube.com/watch?v=XjVqEHfmHZo
+    markers:
+      - 01:00-40s-nostrapro
+  - url: https://www.youtube.com/watch?v=mE24m-kAcig
+    markers:
+      - 01:35-40s-haloplay
+  - url: https://www.youtube.com/watch?v=RdZH-MTdQ1M
+    markers:
+      - 00:30-35s-rummycircle
+  - url: https://www.youtube.com/watch?v=_xBlQ5MKS9U
+    markers:
+      - 00:07-60s-ludosingh
+  - url: https://www.youtube.com/watch?v=ThTnqbjfRpo
+    markers:
+      - 00:15-65s-classicrummy
+  - url: https://www.youtube.com/watch?v=iHxTk86Pp3g
+    markers:
+      - 00:20-55s-mpl
+  - url: https://www.youtube.com/watch?v=vNLV5NsI8bM
+    markers:
+      - 00:40-80s-mpl
