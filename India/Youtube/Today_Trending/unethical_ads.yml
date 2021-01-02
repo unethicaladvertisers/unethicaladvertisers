@@ -1,0 +1,29 @@
+---
+channel_id: UCG0m9a2z1ziRm2YlaFuyU7A
+icon: https://yt3.ggpht.com/ytc/AAUvwngegF3aBAcpwE_uPeotY7P34qoyQQNrqbD1am9lgg=s176-c-k-c0x00ffffff-no-rj
+updated_on: 02-JAN-2021
+unethical_ads:
+  - url: https://www.youtube.com/watch?v=3ENIfNXmjtg
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=rZAvpCkEMAQ
+    markers:
+      - 00:10-30s-parimatch
+  - url: https://www.youtube.com/watch?v=1jxsn74H4q0
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=-LFNHakmPbs
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=1HrWXdk601w
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=1sJ-7Rdbm1Y
+    markers:
+      - 00:00-30s-binany
+  - url: https://www.youtube.com/watch?v=e3A8ROg0OzA
+    markers:
+      - 00:05-5s-ace2three
+  - url: https://www.youtube.com/watch?v=azah_60s-F0
+    markers:
+      - 00:00-5s-ace2three
