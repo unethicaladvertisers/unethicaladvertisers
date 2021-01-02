@@ -1,7 +1,11 @@
 ---
 channel_id: UCiJKrqlkEha2kj3D9vSUCIg
 icon: https://yt3.ggpht.com/ytc/AAUvwnjCeL-2dRcqMajfjuJaYLSsMA1_Z5zxVYlDehc=s88-c-k-c0x00ffffff-no-rj
+updated_on: 02-JAN-2021
 unethical_ads:
+  - url: https://www.youtube.com/watch?v=vZNA7NU-o8E
+    markers:
+      - 00:00-40s-binany
   - url: https://www.youtube.com/watch?v=QZ-RoKR6VXQ
     markers:
       - 00:00-45s-pokerbaazi
